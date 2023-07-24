@@ -1,0 +1,2 @@
+
+export type TestContent = string;
